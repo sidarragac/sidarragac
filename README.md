@@ -1,4 +1,4 @@
-<h3 align="center">Get to know me:</h3>
+<h1 align="center">Get to know me:</h1>
 
 - 👋 Hi, I’m <b>Santiago Idárraga Ceballos</b>
 - 👀 I’m a Systems Engineer student at EAFIT. Passionate for coding 💻 and aviation ✈️. I'm always looking for new challenges and experiences to be better day after day.
