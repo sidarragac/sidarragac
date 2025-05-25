@@ -29,4 +29,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidarragac&show_icons=true&locale=en&theme=transparent" alt="sidarragac" />
 </p>
-  
+
+- 🎶 I love to listen music. This is what I'm currently listening.
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22jueqsnwg52nlj2xng37aa7q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
