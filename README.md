@@ -27,9 +27,9 @@
 
 <h3 align="center">My stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidarragac&show_icons=true&locale=en&theme=transparent" alt="sidarragac" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=sidarragac&show_icons=true&include_all_commits=true&theme=vue-dark" alt="sidarragac" />
 </p>
 
 - 🎶 I love to listen music. This is what I'm currently listening.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22jueqsnwg52nlj2xng37aa7q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22jueqsnwg52nlj2xng37aa7q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=22jueqsnwg52nlj2xng37aa7q&redirect=true)
